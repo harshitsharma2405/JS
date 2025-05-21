@@ -10,6 +10,6 @@
 // Symbol 
 
 
-// object 
+// object
 
 console.log(typeof null)
